@@ -3,4 +3,5 @@
     <string name="title_home">Вкладка1</string>
     <string name="title_dashboard">Вкладка2</string>
     <string name="title_notifications">Вкладка3</string>
+    <string name="title_osebe">О себе</string>
 </resources>
